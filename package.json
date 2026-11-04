@@ -1,0 +1,11 @@
+{
+  "name": "biolaris-runtime",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Standalone media-tool runtimes for Biolaris Media",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "binaries:download": "node scripts/download-binaries.mjs"
+  }
+}
